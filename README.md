@@ -1,29 +1,29 @@
-# Resim Düzenleyici
+# 🎨 Image Editor
 
-Bu proje, kullanıcıların resimleri düzenlemelerine olanak tanıyan bir resim düzenleyici uygulamasıdır. Uygulama, farklı görsel efektler, filtreler, metin ekleme, boyutlandırma ve renk düzenlemeleri gibi çeşitli özellikleri kullanıcıya sunar. 
+This project is an image editor application that allows users to edit images. The application offers a variety of features such as visual effects, filters, adding text, resizing, and color adjustments.
 
-## Özellikler
+## ✨ Features
 
-- **Resim Seçme**: Kullanıcı bilgisayarından bir resim seçebilir.
-- **Parlaklık, Kontrast ve Keskinlik Ayarları**: Resmin parlaklık, kontrast ve keskinlik değerleri ayarlanabilir.
-- **Yazı Ekleme**: Kullanıcı resmin üzerine yazı ekleyebilir. Yazının boyutu ve rengi ayarlanabilir.
-- **Boyutlandırma**: Resmin boyutları manuel olarak ayarlanabilir.
-- **Renk Efektleri**: Resme siyah-beyaz ve sepya efekti gibi renk değişiklikleri uygulanabilir.
-- **Filtreler**: Resme bulanık, keskin, kabartma ve kenar bulma gibi filtreler uygulanabilir.
-- **Resim Kaydetme**: Düzenlenen resim kaydedilebilir.
-- **Resmi Orjinaline Döndürme**: Yapılan tüm değişiklikler geri alınarak resim orijinal haline getirilebilir.
+- **🖼️ Picture Selection:** The user can select an image from their computer.
+- **🌞 Brightness, Contrast, and Sharpness Settings:** Adjust the brightness, contrast, and sharpness of the image.
+- **🔤 Adding Text:** Add text to the image. Customize the size and color of the text.
+- **📏 Resizing:** Manually adjust the size of the image.
+- **🎨 Color Effects:** Apply color effects such as black and white or sepia.
+- **🖌️ Filters:** Apply filters like blur, sharpen, emboss, and edge detection.
+- **💾 Save Image:** Save the edited image to your computer.
+- **⏪ Restore Original:** Undo all changes and restore the image to its original state.
 
-## Gereksinimler
+## 🛠️ Requirements
 
-Bu proje Python 3.x ve aşağıdaki kütüphaneleri kullanmaktadır:
+This project uses **Python 3.x** and the following libraries:
 
-- `tkinter` (GUI oluşturma için)
-- `PIL` (Python Imaging Library) - Görsel düzenleme işlemleri için
-- `os`, `filedialog`, `messagebox`, `colorchooser` (Dosya yönetimi ve kullanıcı etkileşimi için)
+- **🐍 `tkinter`** - For creating the graphical user interface (GUI).
+- **🖼️ `PIL` (Python Imaging Library)** - For image editing.
+- **📂 `os`, `filedialog`, `messagebox`, `colorchooser`** - For file management and user interaction.
 
-Projeyi çalıştırmadan önce bu kütüphanelerin sisteminizde kurulu olması gerekmektedir. 
+Make sure these libraries are installed on your system before running the project.
 
-## Proje Görünümü
+## 🖥️ Project View
 ![image](https://github.com/user-attachments/assets/3d7b6fa0-bdc1-4860-b1e3-50071abb2838)
 ![image](https://github.com/user-attachments/assets/b8a6bdf0-71ff-4c3c-b30d-6afd4a50a789)
 
